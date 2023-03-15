@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "random-str-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoyAndresTrujillo/random-str-msg.git"
+  },
+  "keywords": [],
+  "author": "soyandrestrujillo <andymania.1301@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SoyAndresTrujillo/random-str-msg/issues"
+  },
+  "homepage": "https://github.com/SoyAndresTrujillo/random-str-msg#readme"
+}
